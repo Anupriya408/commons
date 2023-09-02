@@ -21,7 +21,7 @@ const Product = ({ product, onAddToCart }) => {
         <div>
           <button onClick={() => setQuantity(quantity - 1)}>-</button>
           {quantity}
-          <button onClick={addToCart} disabled={quantity >= 10}>+</button>
+          <button onClick={addToCart} disabled={quantity >= 8}>+</button>
         </div>
       )}
     </div>
