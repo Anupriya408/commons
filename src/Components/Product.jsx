@@ -16,7 +16,7 @@ const Product = ({ product, onAddToCart }) => {
       <p>Weight: {product.weight}</p>
       <p>Price: ${product.price}</p>
       {quantity === 0 ? (
-        <button onClick={addToCart}>Add to cart</button>
+        <button onClick={addToCart}>ADD TO CART</button>
       ) : (
         <div>
           <button onClick={() => setQuantity(quantity - 1)}>-</button>
