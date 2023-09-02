@@ -9,14 +9,7 @@ h2 {
   padding: 20px;
   border-radius: 6px;
 }
-ul {
-  list-style-type: none;
-  padding: 0;
-}
 
-ul li {
-  margin-bottom: 10px;
-}
 .clickOrderButton {
   display: inline-block;
   padding: 10px 20px;
@@ -32,18 +25,26 @@ ul li {
 .clickOrderButton:hover {
   background-color: #0056b3;
 }
+ul {
+  list-style-type: none;
+  padding: 0;
+}
 
-/* Responsive styles for larger screens */
+ul li {
+  margin-bottom: 10px;
+}
+
+/* Responsive styles for large screens */
 @media screen and (min-width: 768px) {
-  .order-summary {
+  .order-Details {
     margin: 20px auto;
     max-width: 600px;
   }
 }
 
-/* Responsive styles for smaller screens */
+/* Responsive styles for small screens */
 @media screen and (max-width: 480px) {
-  .order-summary {
+  .order-Details {
     padding: 10px;
   }
 }
