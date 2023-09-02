@@ -39,14 +39,42 @@
     "name": "Product 6",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJcBqawHt2DZO9Yc07GGrojFEiB20Fc6y1lkt0jMmdQ&s",
     "weight": "1.7 lb",
-    "price": 12.99
+    "price": 17.99
   },
   {
     "id": 7,
     "name": "Product 7",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJcBqawHt2DZO9Yc07GGrojFEiB20Fc6y1lkt0jMmdQ&s",
     "weight": "12.9 lb",
-    "price": 9.49
+    "price": 5.49
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJcBqawHt2DZO9Yc07GGrojFEiB20Fc6y1lkt0jMmdQ&s",
+    "weight": "12.9 lb",
+    "price": 3.49
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJcBqawHt2DZO9Yc07GGrojFEiB20Fc6y1lkt0jMmdQ&s",
+    "weight": "12.9 lb",
+    "price": 9.19
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJcBqawHt2DZO9Yc07GGrojFEiB20Fc6y1lkt0jMmdQ&s",
+    "weight": "12.9 lb",
+    "price": 9.59
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJcBqawHt2DZO9Yc07GGrojFEiB20Fc6y1lkt0jMmdQ&s",
+    "weight": "12.9 lb",
+    "price": 9.48
   }
   
   
